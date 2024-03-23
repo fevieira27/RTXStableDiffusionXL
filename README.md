@@ -32,9 +32,6 @@ First install , and then:
 
 6. Navigate to the ```code``` folder of the project. Then, open the notebook titled ```FineTuning-SDXL.ipynb``` and get started.
 
-## Tested On
-This notebook has been tested with an NVIDIA RTX 4070 GPU and the following version of NVIDIA AI Workbench: ```nvwb 0.5.3 (internal; linux; amd64; go1.21.3; Tue Oct 17 14:22:21 UTC 2023)```
-
 ## License
 This NVIDIA AI Workbench example project is under the [Apache 2.0 License](https://github.com/nv-edwli/sdxl-customization/blob/main/LICENSE.txt)
 
