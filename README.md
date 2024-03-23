@@ -30,7 +30,7 @@ First install , and then:
  
 5. Start JupyterLab
 
-6. Navigate to the ```code``` folder of the project. Then, open the notebook titled ```FineTuning-SDXL.ipynb``` and get started.
+6. Navigate to the ```code``` folder of the project. Then, open the notebook titled ```FineTuning-SDXL-Elsa.ipynb``` and get started.
 
 ## License
 This NVIDIA AI Workbench example project is under the [Apache 2.0 License](https://github.com/nv-edwli/sdxl-customization/blob/main/LICENSE.txt)
